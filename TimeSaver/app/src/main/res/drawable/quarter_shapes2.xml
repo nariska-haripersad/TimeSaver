@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--This method is adapted from (dmaxi.2012)-->
+<rotate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fromDegrees="90"
+    android:toDegrees="90"
+    android:pivotX="50%"
+    android:pivotY="50%"
+    android:drawable="@drawable/quarter_shapes1" />
+
+    <!--Reference List:-->
+    <!--dmaxi.2012. Is it possible to rotate a drawable in the xml description?, 3 January 2012. [Online]. Available at:https://stackoverflow.com/questions/8716289/is-it-possible-to-rotate-a-drawable-in-the-xml-description [Accessed 21 April 2024]-->

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    // app colours
+    <color name="welcome_screen_background">#23014C</color>
+    <color name="welcome_screen_shapes">#610282</color>
+    <color name="white">#FFFFFF</color>
+    <color name="sign_up_button">#7D0303</color>
+    <color name="login_button">#003F9F</color>
+    <color name="purple">#B678FF</color>
+    <color name="light_purple_background">#E3D0E8</color>
+    <color name="black">#000000</color>
+    <color name="view_menu">#9756E3</color>
+    <color name="timesheet">#9304B7</color>
+    <color name="total_hrs">#4C06A0</color>
+    <color name="daily_goals">#32006D</color>
+    <color name="archived_projects">#3B067B</color>
+    <color name="achivements">#1B0139</color>
+    <color name="blue">#00C8EC</color>
+    <color name="signup_design_colour">#9762D5</color>
+    <color name="signup_design_colour2">#5006A9</color>
+
+</resources>
