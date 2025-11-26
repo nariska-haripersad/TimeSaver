@@ -1,6 +1,11 @@
 # TimeSaver 
 TimeSaver is a mobile time-tracking application designed to help users record the time they spend working on projects, manage productivity and monitor progress toward daily goals. It was built as a group project in Android Studio using Kotlin. The goal of this application was to implement a functional time-tracking system while demonstrating strong understanding of backend development, database integration, UI design and general software engineering practices.
-
+## Technologies Used
+- Kotlin
+- Java (very minor use)
+- Android Studio
+- Firebase Realtime Database
+- Android XML UI layouts
 
 
 
