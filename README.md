@@ -1,5 +1,7 @@
-# Overview
-The Time Tracker App is designed to help professionals efficiently track the time they spend on various tasks. This app provides an easy-to-use interface that makes the often mundane task of time tracking more engaging and enjoyable. Key features include user authentication, timesheet entry management, photo attachments, daily work hour goals, and detailed reporting with graphical visualization. The data is stored securely in an online database, ensuring accessibility and reliability.
+# TimeSaver 
+TimeSaver is a mobile time-tracking application designed to help users record the time they spend working on projects, manage productivity and monitor progress toward daily goals. It was built as a group project in Android Studio using Kotlin. The goal of this application was to implement a functional time-tracking system while demonstrating strong understanding of backend development, database integration, UI design and general software engineering practices.
+
+
 
 
 # Usage 
