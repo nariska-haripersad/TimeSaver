@@ -59,5 +59,13 @@ Users can set productivity goals by entering:
 ### View 
 Opens another menu with the following menu options: 
 - Timesheets <br>
+— Users select a date range and view all timesheets created during that period <br>
+— Tapping a timesheet opens its full details <br>
+###### My contribution: Frontend and backend
+- Total hours per category <br>
+— Shows total hours worked per category across a selected time period <br>
 
+Displays category name + total hours
+Helps users understand where their time is going
+My contribution: frontend + backend
 
