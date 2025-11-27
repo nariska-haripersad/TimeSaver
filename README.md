@@ -102,7 +102,7 @@ My primary contributions included:
 - Welcome page 
 - Sign Up and Login (frontend)
 - Set Daily Goal (frontend + backend)
-- View Menu
+- View menu
 - Total hours worked per day page (frontend + backend)
 - Daily Goals page (frontend + backend)
 - Archived Projects (frontend + backend)
