@@ -98,7 +98,7 @@ My primary contributions included:
 - Notifications (frontend + backend)
 <p>Other team members handled: <p>
   
-- App name & logo
+- App name and logo
 - Welcome page 
 - Sign Up and Login frontend
 - Set Daily Goal (frontend + backend)
