@@ -100,7 +100,7 @@ My primary contributions included:
   
 - App name and logo
 - Welcome page 
-- Sign Up and Login frontend
+- Sign Up and Login (frontend)
 - Set Daily Goal (frontend + backend)
 - View Menu
 - Total hours worked per day page (frontend + backend)
