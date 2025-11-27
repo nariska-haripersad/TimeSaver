@@ -37,7 +37,7 @@ After logging in, users are presented with the home menu with the following opti
 ###### My contribution: Full frontend/UI design of the main menu. 
 ### Create Category
 - Users can create custom categories for organizing timesheets
-- To create a category, enter category name, enter description (optional) and click 'Add Category' to save it
+- To create a category: enter category name, enter description (optional) and click 'Add Category' to save it
 ###### My contribution: Frontend and backend
 ### Create Timesheet 
 Users can create timesheets to log work they have completed. To create a timesheet entry, the user needs to enter:
@@ -83,15 +83,21 @@ Opens another menu with the following menu options:
 ###### My contribution: Frontend and backend
 ### Contact Us
 - Allows users to send queries or feedback
-- The user needs to enter their email address, write message and click 'Submit'
+- The user needs to enter their email address, write a message and click 'Submit'
 ###### Built by another team member
 ## Team Contributions Summary
 My primary contributions included:
 - Firebase setup and integration
-- Backend for Sign Up and Login
-- Backend for Create Category, Create Timesheet, Timesheets page, Total hours per category page, Achievements, Notifications
-- Frontend for Main Menu, Create Category, Create Timesheet, Timesheets page, Total hours per category page, Achievements, Notifications
+- Sign Up and Login (backend)
+- Main menu (frontend)
+- Create Category (frontend + backend)
+- Create Timesheet (frontend + backend)
+- Timesheets page (frontend + backend)
+- Total hours per category page (frontend + backend)
+- Achievements (frontend + backend)
+- Notifications (frontend + backend)
 <p>Other team members handled: <p>
+  
 - App name & logo
 - Welcome page 
 - Sign Up and Login frontend
