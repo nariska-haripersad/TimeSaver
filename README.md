@@ -89,7 +89,7 @@ Opens another menu with the following menu options:
 My primary contributions included:
 - Firebase setup and integration
 - Sign Up and Login (backend)
-- Main menu (frontend)
+- Main menu 
 - Create Category (frontend + backend)
 - Create Timesheet (frontend + backend)
 - Timesheets page (frontend + backend)
