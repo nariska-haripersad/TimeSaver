@@ -60,12 +60,47 @@ Users can set productivity goals by entering:
 Opens another menu with the following menu options: 
 - Timesheets <br>
 — Users select a date range and view all timesheets created during that period <br>
-— Tapping a timesheet opens its full details <br>
+— Tapping a timesheet opens its full details
 ###### My contribution: Frontend and backend
 - Total hours per category <br>
-— Shows total hours worked per category across a selected time period <br>
+— Shows total hours worked per category across a selected time period (displays category name + total hours)
+###### My contribution: Frontend and backend
+- Total hours worked per day <br>
+— Displays a bar graph for total daily hours in a selected timeframe
+###### Built by another team member
+- Daily Goals <br>
+— Users can select a month and year and see their daily goal statistics through a visual chart 
+###### Built by another team member
+- Archived Projects <br>
+— Users can view any archived projects 
+###### Built by another team member
+- Achievements <br>
+— A gamified feature listing milestones users can unlock <br>
+— Achievements automatically update depending on the timeframe (weekly, monthly, yearly, overall)
+###### My contribution: Frontend and backend
+### Notifications 
+- Users can view alerts related to timesheet reminders, daily goal updates and productivity prompts
+###### My contribution: Frontend and backend
+### Contact Us
+- Allows users to send queries or feedback
+- The user needs to enter their email address, write message and click 'Submit'
+###### Built by another team member
+## Team Contributions Summary
+My primary contributions included:
+- Firebase setup and integration
+- Backend for Sign Up and Login
+- Backend for Create Category, Create Timesheet, Timesheets page, Total hours per category page, Achievements, Notifications
+- Frontend for Main Menu, Create Category, Create Timesheet, Timesheets page, Total hours per category page, Achievements, Notifications
+<p>Other team members handled: <p>
+- App name & logo
+- Welcome page 
+- Sign Up and Login frontend
+- Set Daily Goal (frontend + backend)
+- View Menu
+- Total hours worked per day page (frontend + backend)
+- Daily Goals page (frontend + backend)
+- Archived Projects (frontend + backend)
+- Contact Us
 
-Displays category name + total hours
-Helps users understand where their time is going
-My contribution: frontend + backend
+
 
